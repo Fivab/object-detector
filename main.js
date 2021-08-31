@@ -13,7 +13,7 @@ function setup() {
 }
 
 function preload() {
-    img=loadImage('dog and cat.jpg');
+
 }
 
 function modelLoaded() {
